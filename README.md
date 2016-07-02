@@ -1,4 +1,4 @@
-# markdownBook
+# Writing Markdown
 
 ## License & Copyright
 
